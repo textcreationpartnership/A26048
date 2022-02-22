@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Assembly of moderate divines</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26048</idno>
+            <idno type="STC">Wing A4018</idno>
+            <idno type="STC">ESTC R38540</idno>
+            <idno type="EEBO-CITATION">17756757</idno>
+            <idno type="OCLC">ocm 17756757</idno>
+            <idno type="VID">106575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Assembly of moderate divines</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l.</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:106575:1" rendition="simple:additions"/>
+            <head>THE ASSEMBLY OF Moderate Divines.</head>
+            <lg>
+               <l>PRay pardon me, <hi>John Bayes,</hi> for I beg your excuſe</l>
+               <l>If I make no ſtranger of your beloved Muſe,</l>
+               <l>It being your Talent <hi>Divines</hi> to Abuſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Divines</hi> that can Scruple and Cant with the Times,</l>
+               <l>As <hi>Settle</hi> and <hi>Shadwell</hi> for Cruſt belch their Rhymes:</l>
+               <l>But St. <hi>Peter</hi> and <hi>Judas</hi> we know had their Crimes.</l>
+            </lg>
+            <lg>
+               <l>If among Twelve Apoſtles, we can produce two,</l>
+               <l>Did exceed any Cruel and Hard-hearted <hi>Jew,</hi>
+               </l>
+               <l>Why then ſhou'd we wonder, if we have a few.</l>
+            </lg>
+            <lg>
+               <l>There's the B—p of <hi>B—n,</hi> for he <hi>L—ne</hi> n'er ſaw,</l>
+               <l>And there's <hi>Naked Truth,</hi> with his ſcrupulous Paw,</l>
+               <l>And theres—<hi>Pray beware of the Common Law.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There's t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e D— of St. <hi>P—</hi> admired by ſome</l>
+               <l>For his Works againſt <hi>England, Geneva</hi> and <hi>Rome,</hi>
+               </l>
+               <l>
+                  <hi>Idolatry, Seperation, Irenicum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And there's <hi>Trimming Tray</hi> too, who talks much of Love,</l>
+               <l>As if a <hi>Phanatick</hi> was as meek as a Dove:</l>
+               <l>But for him and <hi>R— Cudworth,</hi> a God let them prove.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Gilbert</hi> where art thou? thou man of the Lord,</l>
+               <l>For <hi>Mary-Hill</hi>'s loſt, you may take the <hi>Planks</hi> word,</l>
+               <l>Between you and I, 'twas a <hi>Prophetick Board.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With you <hi>Anth— H—ke</hi> the Pulpit diſgraces</l>
+               <l>By your Whining, your Canting, and your Outlandiſh Faces,</l>
+               <l>But the <hi>Rolls</hi> and the <hi>Savoy</hi> are Priviledg'd places.</l>
+            </lg>
+            <lg>
+               <l>St. <hi>Lawrence</hi> for <hi>Wh—te</hi> did ſtiffly diſpute,</l>
+               <l>Perhaps he might Cant well, had he not been Mute,</l>
+               <l>But he Preached as <hi>Marr-all</hi> does play on the Lute.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:106575:2" rendition="simple:additions"/>
+               <l>There's old Father <hi>G—rd</hi> of <hi>Dunſtans</hi> i'th' <hi>Eaſt,</hi>
+               </l>
+               <l>Who among the rude Vulgar is a Prophet at leaſt;</l>
+               <l>But who e're Preach'd well, when the People were pleas'd.</l>
+            </lg>
+            <lg>
+               <l>There's a Fat <hi>Trimming Doctor</hi> of <hi>Cornhill</hi> St. <hi>Miles,</hi>
+               </l>
+               <l>Whom the <hi>Clergy</hi>'s contemner, Parſon ſlip Stockins ſtiles</l>
+               <l>An Eloquent Preacher, none hears him, but ſmiles,</l>
+            </lg>
+            <lg>
+               <l>And there's <hi>Boannerges</hi> his Brother that thunders,</l>
+               <l>He Cants in <hi>Old-Fiſh-ſtreet,</hi> and who I pray wonders,</l>
+               <l>For he has a moſt excellent Voice to ſell <hi>Flounders.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There's a Moderate Doctor at <hi>Criplegate</hi> dwells,</l>
+               <l>Who <hi>Sm—s</hi> his Curate in <hi>Trimming</hi> excels:</l>
+               <l>But <hi>Bunyan</hi> the <hi>Tinker</hi> has tickled his Gills.</l>
+            </lg>
+            <lg>
+               <l>There<hi>'s P—ne</hi> of <hi>Whitechappel</hi> a <hi>Simoniac</hi> they ſay,</l>
+               <l>A man that's cut out to be Vicar of <hi>Bray,</hi>
+               </l>
+               <l>If the Times do but turn: as he wiſhes they may.</l>
+            </lg>
+            <lg>
+               <l>There's <hi>Charterhouſe P—cke,</hi> a Captain they call him,</l>
+               <l>For <hi>Borleſqueing</hi> the Pſalms, ſome highly extol him,</l>
+               <l>But O how <hi>L'Strange,</hi> and <hi>Sam</hi>'s Coffee houſe gall him.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Kidder</hi> thy <hi>Trimmings</hi> above humane Race,</l>
+               <l>For <hi>Faction</hi> turn'd out of the <hi>Rolls</hi> with Diſgrace,</l>
+               <l>And Orthodox <hi>B—t</hi> ſucceeds in thy place.</l>
+            </lg>
+            <lg>
+               <l>There's <hi>Scotch</hi> bawling <hi>Alderſon,</hi> proof againſt Ien,</l>
+               <l>Has a Voice that drowns a Cathedral <hi>Amen:</hi>
+               </l>
+               <l>But 'tis thought he Catches more Women than Men.</l>
+            </lg>
+            <lg>
+               <l>There's <hi>D—m</hi> of <hi>Breadſtreet</hi> has <hi>Trimm'd</hi> fifty years.</l>
+               <l>So Old, ſo Grave, and ſo Fooliſh appears,</l>
+               <l>At once he deſerves both Laughter and Tears,</l>
+            </lg>
+            <lg>
+               <l>But <hi>Trimming</hi>'s the ſubject of Brave <hi>Roger</hi>'s Pen,</l>
+               <l>Who Scourges thoſe Monſters call'd <hi>Moderate Min,</hi>
+               </l>
+               <l>For <hi>Trimming</hi> the Source of <hi>Rebellion</hi> has been,</l>
+            </lg>
+            <lg>
+               <l>Go on Loyal <hi>Sir,</hi> and gain more Renown,</l>
+               <l>Write all the <hi>Factious Whiggs</hi> and <hi>Trimmers</hi> down,</l>
+               <l>Draw out your Conquering Pen and Guard the Crown.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
